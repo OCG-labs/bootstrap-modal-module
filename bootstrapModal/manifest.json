@@ -1,0 +1,10 @@
+{
+ -  "css": [
+ -    "bootstrap-modal.css",
+ -    "bootstrap-modal-bs3patch.css",
+ -  ]
+     "js": [
+       "bootstrap-modalmanager.js",
+       "bootstrap-modal.js",
+     ]
+ -}
